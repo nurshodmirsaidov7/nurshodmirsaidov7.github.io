@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.nurshodmirsaidov7.trackme",
+    "sha256_cert_fingerprints": ["6D:1D:2A:1C:12:33:1F:5A:9B:D9:D4:08:26:4D:AE:06:B5:22:73:44:C4:A2:13:52:5C:B0:B5:BE:61:F5:B4:DD"]
+  }
+}]
